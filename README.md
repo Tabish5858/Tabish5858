@@ -3,37 +3,49 @@
 ---
 
 ## About Me
-- **BS Computer Science Student**
-  - Currently in my 2nd Semester, exploring the fascinating world of programming.
-  - Passionate about coding, problem-solving, and building innovative software.
+- **BS Computer Science Student (Fifth Semester)**
+  - Passionate about programming and continuously expanding my technical skills.
+- **Python Developer in the Making**
+  - Currently focusing on Python development with Flask, favoring its simplicity over Django.
+  - Exploring AI/ML projects to integrate smart features into my applications.
+- **Achievements & Interests**
+  - Twice winner of university chess competitions, showcasing strategic thinking.
 - **Based in**
-  - Bahawalpur, Punjab, Pakistan.
-- **Developer Mindset**
-  - “If it’s working and you ask me to tweak it… better buckle up! Tech rarely plays by the rules you think it does.”
+  - Bahawalpur, Punjab, Pakistan
+
+---
+
+---
+
+## GitHub Stats
+- ![Tabish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tabish5858&show_icons=true&theme=radical)
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tabish5858&layout=compact&theme=radical)
 
 ---
 
 ## What I'm Working On
-- **Diverse Projects Across Languages**
-  - Experimenting with Python, TypeScript, JavaScript, Java, and CSS.
-  - Developing applications ranging from AI-based solutions to creative web projects.
-- **Continuous Learning**
-  - Deepening my knowledge in Data Structures & Algorithms (especially in C++).
-  - Exploring modern web technologies and AI integrations.
+- **Python & Flask Projects**
+  - Developing web applications using Flask for rapid, lightweight solutions.
+  - Experimenting with AI/ML integrations to enhance functionality.
+- **Learning & Innovation**
+  - Continuously upgrading my skills in Python and related technologies.
+  - Keeping up with modern trends in AI/ML for future-ready projects.
+- **Community Contributions**
+  - Actively participating in open-source projects and collaborating with peers.
 
 ---
 
 ## Pinned Projects
 - **[AI-Object-Detection](https://github.com/Tabish5858/AI-Object-Detection) (Python)**
-  - A project focused on implementing object detection using AI techniques.
+  - Implementing object detection using AI techniques.
 - **[StartupSpotlight](https://github.com/Tabish5858/StartupSpotlight) (TypeScript)**
-  - Highlighting innovative startups with a dynamic, interactive platform.
+  - A dynamic platform to showcase innovative startups.
 - **[The-Quran-App](https://github.com/Tabish5858/The-Quran-App) (JavaScript)**
-  - A web application offering insights and resources related to the Quran.
+  - A web application providing insights and resources related to the Quran.
 - **[Cyberfiction](https://github.com/Tabish5858/Cyberfiction) (JavaScript)**
-  - A creative project exploring futuristic and cyber-themed narratives.
+  - A creative project exploring futuristic cyber themes.
 - **[Chess-Engine-In-Java](https://github.com/Tabish5858/Chess-Engine-In-Java) (Java)**
-  - A chess engine built during my 2nd semester, merging game logic with Java.
+  - An early project combining chess strategy with Java programming.
 - **[GPT3_React](https://github.com/Tabish5858/GPT3_React) (CSS)**
   - Integrating GPT-3 with React to create dynamic, visually engaging interfaces.
 
@@ -45,19 +57,12 @@
 - **LinkedIn:** [Tabish Bin Ishfaq](https://www.linkedin.com/in/tabish-bin-ishfaq/)
 - **GitLab:** [Tabish5858 on GitLab](https://gitlab.com/Tabish5858)
 
----
 
-## GitHub Stats
-- ![Tabish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tabish5858&show_icons=true&theme=radical)
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tabish5858&layout=compact&theme=radical)
-
----
-
-## What I'm Learning & Goals
-- **Current Learning Focus**
-  - Advancing my skills in C++ Data Structures & Algorithms.
-  - Exploring new frameworks and technologies to build scalable applications.
-- **Future Goals**
+## Learning & Future Goals
+- **Current Focus**
+  - Mastering Python and Flask for robust web development.
+  - Deepening my knowledge in AI/ML to create intelligent applications.
+- **Future Aspirations**
   - Contribute actively to open-source projects.
-  - Enhance my portfolio with impactful and innovative projects.
-  - Grow as a well-rounded developer by embracing new challenges.
+  - Build innovative projects that blend technical prowess with strategic problem-solving.
+  - Grow into a well-rounded developer ready to tackle real-world challenges.
