@@ -18,8 +18,7 @@
 ---
 
 ## GitHub Stats
-- ![Tabish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tabish5858&show_icons=true&theme=radical)
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tabish5858&layout=compact&theme=radical)
+- ![Tabish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tabish5858&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tabish5858&layout=compact&theme=radical)
 
 ---
 
