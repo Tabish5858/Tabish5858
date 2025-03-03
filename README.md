@@ -1,70 +1,67 @@
 # Hi there, I'm Tabish Bin Ishfaq 👋
 
----
+### 🛠️ Technologies & Tools  
 
-## About Me
-- **BS Computer Science Student (Fifth Semester)**
-  - Passionate about programming and continuously expanding my technical skills.
-- **Python Developer in the Making**
-  - Currently focusing on Python development with Flask, favoring its simplicity over Django.
-  - Exploring AI/ML projects to integrate smart features into my applications.
-- **Achievements & Interests**
-  - Twice winner of university chess competitions, showcasing strategic thinking.
-- **Based in**
-  - Bahawalpur, Punjab, Pakistan
+#### 🚀 Frontend  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
 
----
+#### ⚡ State Management & APIs  
+![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  
 
----
+#### 🏗️ Backend & Databases  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)  
 
-## GitHub Stats
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tabish5858&show_icons=true&theme=radical" alt="Tabish's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tabish5858&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+#### 🎨 UI/UX & Design  
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)  
 
----
+#### 🚀 Deployment & Hosting  
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)  
 
-## What I'm Working On
-- **Python & Flask Projects**
-  - Developing web applications using Flask for rapid, lightweight solutions.
-  - Experimenting with AI/ML integrations to enhance functionality.
-- **Learning & Innovation**
-  - Continuously upgrading my skills in Python and related technologies.
-  - Keeping up with modern trends in AI/ML for future-ready projects.
-- **Community Contributions**
-  - Actively participating in open-source projects and collaborating with peers.
+#### 📦 Package Managers & Build Tools  
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  
+
+#### 🔗 Other Technologies  
+![Sanity](https://img.shields.io/badge/Sanity-CM-red?style=for-the-badge&logo=sanity) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)  
+
+#### 🛠️ Version Control  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+
 
 ---
 
-## Pinned Projects
-- **[AI-Object-Detection](https://github.com/Tabish5858/AI-Object-Detection) (Python)**
-  - Implementing object detection using AI techniques.
-- **[StartupSpotlight](https://github.com/Tabish5858/StartupSpotlight) (TypeScript)**
-  - A dynamic platform to showcase innovative startups.
-- **[The-Quran-App](https://github.com/Tabish5858/The-Quran-App) (JavaScript)**
-  - A web application providing insights and resources related to the Quran.
-- **[Cyberfiction](https://github.com/Tabish5858/Cyberfiction) (JavaScript)**
-  - A creative project exploring futuristic cyber themes.
-- **[Chess-Engine-In-Java](https://github.com/Tabish5858/Chess-Engine-In-Java) (Java)**
-  - An early project combining chess strategy with Java programming.
-- **[GPT3_React](https://github.com/Tabish5858/GPT3_React) (CSS)**
-  - Integrating GPT-3 with React to create dynamic, visually engaging interfaces.
+## 👨‍💻 About Me
+- **BS Computer Science Student**  
+  Passionate about programming, continuously expanding my technical skills while specializing as a Python developer.
+- **Python Developer in the Making**  
+  Focused on building robust web applications using **Flask** and exploring innovative **AI/ML** projects.
+- **Strategic & Competitive**  
+  Twice winner of university chess competitions—demonstrating strong problem-solving and strategic thinking.
+- **Based in**  
+  Bahawalpur, Punjab, Pakistan
 
 ---
 
-## Connect with Me
-- **GitHub:** [Tabish5858](https://github.com/Tabish5858/)
-- **Website:** [tabish.vercel.app](https://tabish.vercel.app)
-- **LinkedIn:** [Tabish Bin Ishfaq](https://www.linkedin.com/in/tabish-bin-ishfaq/)
-- **GitLab:** [Tabish5858 on GitLab](https://gitlab.com/Tabish5858)
+## 📊 GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tabish5858&theme=dark&hide_border=false)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=Tabish5858&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
+---
 
-## Learning & Future Goals
-- **Current Focus**
-  - Mastering Python and Flask for robust web development.
-  - Deepening my knowledge in AI/ML to create intelligent applications.
-- **Future Aspirations**
-  - Contribute actively to open-source projects.
-  - Build innovative projects that blend technical prowess with strategic problem-solving.
-  - Grow into a well-rounded developer ready to tackle real-world challenges.
+## 🏆 GitHub Trophies
+[![](https://github-profile-trophy.vercel.app/?username=Tabish5858&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github-profile-trophy.vercel.app/?username=Tabish5858&theme=Dark)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Tabish5858&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Tabish5858&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
