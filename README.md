@@ -42,7 +42,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tabish5858&theme=dracula)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tabish5858&theme=dracula)
 ![](https://github-readme-stats.vercel.app/api?username=Tabish5858&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ---
