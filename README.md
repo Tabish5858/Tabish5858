@@ -35,14 +35,14 @@
 - **Python Developer in the Making**  
   Focused on building robust web applications using **Flask** and exploring innovative **AI/ML** projects.
 - **Strategic & Competitive**  
-  Twice winner of university chess competitions—demonstrating strong problem-solving and strategic thinking.
+  Twice won university chess competitions, demonstrating strong problem-solving and strategic thinking skills.
 - **Based in**  
   Bahawalpur, Punjab, Pakistan
 
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tabish5858&theme=dark&hide_border=false)](https://git.io/streak-stats)
+![](https://streak-stats.demolab.com/?user=Tabish5858&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=Tabish5858&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ---
