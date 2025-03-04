@@ -42,7 +42,7 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://streak-stats.demolab.com/?user=Tabish5858&theme=dark&hide_border=true)
+[![](https://streak-stats.demolab.com?user=Tabish5858&theme=dracula)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=Tabish5858&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ---
