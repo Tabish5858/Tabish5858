@@ -42,8 +42,8 @@
 ---
 
 ## 📊 GitHub Stats
-[![](https://streak-stats.demolab.com?user=Tabish5858&theme=dracula)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api?username=Tabish5858&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tabish5858&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=Tabish5858&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ---
 
@@ -58,7 +58,7 @@
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Tabish5858&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Tabish5858&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
 
