@@ -1,5 +1,5 @@
-# Hi there, I'm Tabish Bin Ishfaq 👋
-
+# Hi there, I'm Tabish Bin Ishfaq. 👋
+<img src="https://komarev.com/ghpvc/?username=Tabish5858&label=Profile%20views&color=0e75b6&style=flat" alt="Tabish5858" />
 ### 🛠️ Technologies & Tools  
 
 #### 🚀 Frontend  
