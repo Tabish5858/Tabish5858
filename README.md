@@ -33,7 +33,6 @@
 
 ---
 
-<div align="center">
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tabish5858&theme=tokyonight&hide_border=true)
 
@@ -41,6 +40,5 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Tabish5858&hide=html,css,java,handlebars&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-</div>
 
 ---
