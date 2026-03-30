@@ -63,7 +63,6 @@ At GigBase, I own development across the full stack - frontend, backend, AWS ser
 ### GitHub Stats
 
 ![Tabish5858's Streak](https://streak-stats.demolab.com/?user=Tabish5858&theme=dark&hide_border=true)
-![Tabish5858's Stats](https://github-readme-stats.vercel.app/api?username=Tabish5858&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ---
 
