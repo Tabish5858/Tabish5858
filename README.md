@@ -6,7 +6,7 @@
 
 <p align="center">
   Full-Stack Engineer with production experience across SaaS platforms, developer tooling, and self-hosted infrastructure.<br/>
-  Currently building at <a href="https://gigbase.io">GigBase</a> - a freelance marketplace platform serving real clients and gig workers at scale.
+  Currently building at <a href="https://app.gigbase.io">GigBase</a> - a freelance marketplace platform serving real clients and gig workers at scale.
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ At GigBase, I own development across the full stack - frontend, backend, AWS ser
 
 ### Selected Work
 
-**[GigBase](https://gigbase.io)** - Production SaaS platform for freelance marketplace operations. Full ownership across Next.js frontend, Node.js/Express backend, MongoDB, and AWS infrastructure, including deployments, server management, and QA across staging and production environments.
+**[GigBase](https://app.gigbase.io)** - Production SaaS platform for freelance marketplace operations. Full ownership across Next.js frontend, Node.js/Express backend, MongoDB, and AWS infrastructure, including deployments, server management, and QA across staging and production environments.
 
 **[ImageLint](https://marketplace.visualstudio.com/items?itemName=tabishbinishfaq1122.imagelint)** - Published VS Code extension that detects and auto-fixes unoptimized image assets across codebases. Built with TypeScript, Sharp, and SVGO. Delivers 85-95% image size reductions with background scanning, inline diagnostics, and one-click fixes.
 
