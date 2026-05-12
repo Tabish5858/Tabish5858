@@ -6,13 +6,6 @@
 
 <p align="center">
   Full-Stack Engineer with production experience across SaaS platforms, developer tooling, and self-hosted infrastructure.<br/>
-  Currently building at <a href="https://app.gigbase.io">GigBase</a> - a freelance marketplace platform serving real clients and gig workers at scale.
-</p>
-
-<p align="center">
-  <a href="https://www.tabishbinishfaq.dev/">Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tabish-bin-ishfaq/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:tabishbinishfaq1122@gmail.com">Email</a>
 </p>
 
 ---
@@ -52,7 +45,7 @@ At GigBase, I own development across the full stack - frontend, backend, AWS ser
 
 ### Selected Work
 
-**[GigBase](https://app.gigbase.io)** - Production SaaS platform for freelance marketplace operations. Full ownership across Next.js frontend, Node.js/Express backend, MongoDB, and AWS infrastructure, including deployments, server management, and QA across staging and production environments.
+**[GigBase](https://gigbase.io/home-page)** - Production SaaS platform for freelance marketplace operations. Full ownership across Next.js frontend, Node.js/Express backend, MongoDB, and AWS infrastructure, including deployments, server management, and QA across staging and production environments.
 
 **[ImageLint](https://marketplace.visualstudio.com/items?itemName=tabishbinishfaq.imagelint)** - Published VS Code extension that detects and auto-fixes unoptimized image assets across codebases. Built with TypeScript, Sharp, and SVGO. Delivers 85-95% image size reductions with background scanning, inline diagnostics, and one-click fixes.
 
@@ -63,9 +56,3 @@ At GigBase, I own development across the full stack - frontend, backend, AWS ser
 ### GitHub Stats
 
 ![Tabish5858's Streak](https://streak-stats.demolab.com/?user=Tabish5858&theme=dark&hide_border=true)
-
----
-
-<p align="center">
-  Available for freelance engagements and full-time roles &nbsp;·&nbsp; <a href="mailto:tabishbinishfaq1122@gmail.com">tabishbinishfaq1122@gmail.com</a>
-</p>
