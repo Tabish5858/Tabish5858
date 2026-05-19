@@ -45,7 +45,7 @@ At GigBase, I own development across the full stack - frontend, backend, AWS ser
 
 ### Selected Work
 
-**[GigBase](https://gigbase.io/home-page)** - Production SaaS platform for freelance marketplace operations. Full ownership across Next.js frontend, Node.js/Express backend, MongoDB, and AWS infrastructure, including deployments, server management, and QA across staging and production environments.
+**[GigBase](https://gigbase.io)** - Production SaaS platform for freelance marketplace operations. Full ownership across Next.js frontend, Node.js/Express backend, MongoDB, and AWS infrastructure, including deployments, server management, and QA across staging and production environments.
 
 **[ImageLint](https://marketplace.visualstudio.com/items?itemName=tabishbinishfaq.imagelint)** - Published VS Code extension that detects and auto-fixes unoptimized image assets across codebases. Built with TypeScript, Sharp, and SVGO. Delivers 85-95% image size reductions with background scanning, inline diagnostics, and one-click fixes.
 
