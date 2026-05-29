@@ -14,8 +14,6 @@
 
 I specialize in building full-stack web applications with a focus on clean architecture, performance, and shipping features that work in production - not just in development. My work spans frontend systems, REST API design, cloud deployments on AWS, and self-hosted server infrastructure.
 
-At GigBase, I own development across the full stack - frontend, backend, AWS server management, staging and production deployments, and QA. Alongside that, I maintain freelance client projects and have shipped independent products, including a published VS Code extension used for automated image optimization.
-
 ---
 
 ### Technical Skills
@@ -45,14 +43,8 @@ At GigBase, I own development across the full stack - frontend, backend, AWS ser
 
 ### Selected Work
 
-**[GigBase](https://gigbase.io)** - Production SaaS platform for freelance marketplace operations. Full ownership across Next.js frontend, Node.js/Express backend, MongoDB, and AWS infrastructure, including deployments, server management, and QA across staging and production environments.
+**[GigBase](https://gigbase.io)** - SaaS platform for freelance marketplace operations. Full ownership across Next.js frontend, Node.js/Express backend, MongoDB, and AWS infrastructure, including deployments, server management, and QA across staging and production environments.
 
 **[ImageLint](https://marketplace.visualstudio.com/items?itemName=tabishbinishfaq.imagelint)** - Published VS Code extension that detects and auto-fixes unoptimized image assets across codebases. Built with TypeScript, Sharp, and SVGO. Delivers 85-95% image size reductions with background scanning, inline diagnostics, and one-click fixes.
 
 **[MyUni](https://myuni.dev)** - A note-sharing platform built for university students. Built with Django and PostgreSQL, self-hosted on a personal Linux server. Handles real user traffic with full deployment and infrastructure managed independently.
-
----
-
-### GitHub Stats
-
-![Tabish5858's Streak](https://streak-stats.demolab.com/?user=Tabish5858&theme=dark&hide_border=true)
