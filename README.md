@@ -45,6 +45,6 @@ I specialize in building full-stack web applications with a focus on clean archi
 
 **[GigBase](https://gigbase.io)** - SaaS platform for freelance marketplace operations. Full ownership across Next.js frontend, Node.js/Express backend, MongoDB, and AWS infrastructure, including deployments, server management, and QA across staging and production environments.
 
-**[ImageLint](https://marketplace.visualstudio.com/items?itemName=tabishbinishfaq.imagelint)** - Published VS Code extension that detects and auto-fixes unoptimized image assets across codebases. Built with TypeScript, Sharp, and SVGO. Delivers 85-95% image size reductions with background scanning, inline diagnostics, and one-click fixes.
+**[ImageLint-VSCode](https://marketplace.visualstudio.com/items?itemName=tabishbinishfaq.imagelint)**/**[ImageLint-Cursor](https://open-vsx.org/extension/tabishbinishfaq/imagelint)** - Published VS Code & Cursor extension with 900+ downloads combined that detects and auto-fixes unoptimized image assets across codebases. Built with TypeScript, Sharp, and SVGO. Delivers 85-95% image size reductions with background scanning, inline diagnostics, and one-click fixes.
 
-**[MyUni](https://myuni.dev)** - A note-sharing platform built for university students. Built with Django and PostgreSQL, self-hosted on a personal Linux server. Handles real user traffic with full deployment and infrastructure managed independently.
+**[MyUni](https://myuni.dev)** - University community platform serving 150+ active students with AI-powered study assistant processing 1000+ weekly queries. Built with Django and PostgreSQL, self-hosted on a personal Linux server. Handles real user traffic with full deployment and infrastructure managed independently.
