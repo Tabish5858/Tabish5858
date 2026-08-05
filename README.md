@@ -25,11 +25,11 @@ I specialize in building full-stack web applications with a focus on clean archi
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-**Backend**
+**Backend & DataBase**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
@@ -43,7 +43,7 @@ I specialize in building full-stack web applications with a focus on clean archi
 
 ### Selected Work
 
-**[GigBase](https://gigbase.io)** - SaaS platform for freelance marketplace operations. Full ownership across Next.js frontend, Node.js/Express backend, MongoDB, and AWS infrastructure, including deployments, server management, and QA across staging and production environments.
+**[ClientFlo](https://clientflo.tech)** - Agency marketplace operations platform. Full ownership across Next.js, FastAPI backend, Postgres, and AWS infrastructure, including deployments, server management, and QA across staging and production environments.
 
 **[ImageLint-VSCode](https://marketplace.visualstudio.com/items?itemName=tabishbinishfaq.imagelint)**/**[ImageLint-Cursor](https://open-vsx.org/extension/tabishbinishfaq/imagelint)** - Published VS Code & Cursor extension with 900+ downloads that detects and auto-fixes unoptimized image assets across codebases. Built with TypeScript, Sharp, and SVGO. Delivers 85-95% image size reductions with background scanning, inline diagnostics, and one-click fixes.
 
