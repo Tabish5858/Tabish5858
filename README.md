@@ -43,7 +43,7 @@ I specialize in building full-stack web applications with a focus on clean archi
 
 ### Selected Work
 
-**[ClientFlo](https://clientflo.tech)** - Agency marketplace operations platform. Full ownership across Next.js, FastAPI backend, Postgres, and AWS infrastructure, including deployments, server management, and QA across staging and production environments.
+**[Agencly](https://Agencly.app)** - Agency operations platform. Full ownership across Next.js, FastAPI backend, Postgres, and AWS infrastructure, including deployments, server management, and QA across staging and production environments.
 
 **[ImageLint-VSCode](https://marketplace.visualstudio.com/items?itemName=tabishbinishfaq.imagelint)**/**[ImageLint-Cursor](https://open-vsx.org/extension/tabishbinishfaq/imagelint)** - Published VS Code & Cursor extension with 900+ downloads that detects and auto-fixes unoptimized image assets across codebases. Built with TypeScript, Sharp, and SVGO. Delivers 85-95% image size reductions with background scanning, inline diagnostics, and one-click fixes.
 
