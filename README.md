@@ -1,14 +1,14 @@
 <h1 align="center">Tabish Bin Ishfaq</h1>
 
 <p align="center">
-  Full-Stack Engineer with production experience across SaaS platforms, developer tooling, and self-hosted infrastructure.<br/>
+  Full-Stack Engineer with production experience across SaaS platforms, mobile apps, developer tooling, and self-hosted infrastructure.<br/>
 </p>
 
 ---
 
 ### About
 
-I specialize in building full-stack web applications with a focus on clean architecture, performance, and shipping features that work in production - not just in development. My work spans frontend systems, REST API design, cloud deployments on AWS, and self-hosted server infrastructure.
+I specialize in building full-stack web and mobile applications with a focus on clean architecture, performance, and shipping features that work in production - not just in development. My work spans frontend systems, REST API design, React Native apps on Google Play, cloud deployments on AWS, and self-hosted server infrastructure.
 
 ---
 
@@ -20,6 +20,12 @@ I specialize in building full-stack web applications with a focus on clean archi
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=googleplay&logoColor=white)
 
 **Backend & DataBase**
 
@@ -39,8 +45,10 @@ I specialize in building full-stack web applications with a focus on clean archi
 
 ### Selected Work
 
-**[Agencly](https://Agencly.app)/[Agencly - PlayStore](https://play.google.com/store/apps/details?id=agencly.app)** - Agency operations platform. Full ownership across Next.js, FastAPI backend, Postgres, and AWS infrastructure, including deployments, server management, and QA across staging and production environments.
+**[Agencly](https://Agencly.app)/[Agencly - PlayStore](https://play.google.com/store/apps/details?id=agencly.app)** - Agency operations platform with a React Native mobile app live on Google Play. Full ownership across Next.js, FastAPI backend, Postgres, and AWS infrastructure, including deployments, server management, and QA across staging and production environments.
 
-**[ImageLint-VSCode](https://marketplace.visualstudio.com/items?itemName=tabishbinishfaq.imagelint)**/**[ImageLint-Cursor](https://open-vsx.org/extension/tabishbinishfaq/imagelint)** - Published VS Code & Cursor extension with 1000+ downloads that detects and auto-fixes unoptimized image assets across codebases. Built with TypeScript, Sharp, and SVGO. Delivers 85-95% image size reductions with background scanning, inline diagnostics, and one-click fixes.
+**[PakBill - Website](https://pakbill.tabishbinishfaq.dev/)/[PakBill - PlayStore](https://play.google.com/store/apps/details?id=app.pakbill.mobile)** - Electricity bill tracking app live on Google Play with 300+ installs. Built with React Native and a Node.js backend self-hosted on a home server in Pakistan, since official utility portals only accept requests from local IPs. Features QR bill scanning, multi-consumer-number support, bill history, and new bill notifications, with Urdu language support and Sentry crash reporting.
+
+**[ImageLint-VSCode](https://marketplace.visualstudio.com/items?itemName=tabishbinishfaq.imagelint)**/**[ImageLint-Cursor](https://open-vsx.org/extension/tabishbinishfaq/imagelint)** - Published VS Code & Cursor extension with 1300+ downloads that detects and auto-fixes unoptimized image assets across codebases. Built with TypeScript, Sharp, and SVGO. Delivers 85-95% image size reductions with background scanning, inline diagnostics, and one-click fixes.
 
 **[MyUni - Website](https://myuni.dev)/[MyUni - PlayStore](https://play.google.com/store/apps/details?id=dev.myuni.app)** - University community platform serving 200+ users with AI-powered study assistant processing 1000+ weekly queries. Built with Django and PostgreSQL, self-hosted on a personal Linux server. Handles real user traffic with full deployment and infrastructure managed independently.
